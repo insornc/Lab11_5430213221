@@ -1,6 +1,4 @@
 <?php 
 	phpinfo();
-	echo '<p>Hello World</p>';
-	echo '<p>What a wondeful day</p>';
-	echo '<p>We are having fun</p>';
+	echo '<p>My name is kanchira</p>';
  ?>
